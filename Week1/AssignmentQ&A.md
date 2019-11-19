@@ -1,4 +1,7 @@
-  
+# Printing the Score of the neural Network 
+
+[0.05047165223093484, 0.9911]
+
 # Write your own definitions for:
 
 1) Convolution : Convoluiton is a process of combining two or more inputs from a input source and creating a single output.
