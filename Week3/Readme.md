@@ -1,12 +1,12 @@
 #####################################################
-## Benchmark Model provided at 49th Epoch : 83.58%. 
+## Benchmark Model provided to us at 49th Epoch : 83.58%. 
 
 Epoch 49/50
 390/390 [==============================] - 20s 52ms/step - loss: 0.3109 - acc: 0.8972 - val_loss: 0.5585 - val_acc: 0.8358
 #####################################################
 
 #####################################################
-## Best Accuracy at 26th Epoch : 83.10%
+## Best Accuracy of the model we tried at 26th Epoch : 83.10%
 
 Epoch 00026: LearningRateScheduler setting learning rate to 0.0005571030640668523.
 390/390 [==============================] - 45s 115ms/step - loss: 0.3955 - acc: 0.8606 - val_loss: 0.5062 - val_acc: 0.8310
