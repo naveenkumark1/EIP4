@@ -1,4 +1,4 @@
-# EIP4
+# External Intern Project V.4
 All my work including
 1) Assignments
 2) Class notes 
